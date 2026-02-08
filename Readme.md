@@ -32,4 +32,19 @@ Every single day:
 ---
 
 ## 🗂️ Repository Structure
-
+.
+├── arrays/
+├── strings/
+├── linked-list/
+├── stack/
+├── queue/
+├── recursion/
+├── sorting/
+├── searching/
+├── tree/
+├── graph/
+├── dynamic-programming/
+├── greedy/
+├── bit-manipulation/
+├── math/
+└── README.md
